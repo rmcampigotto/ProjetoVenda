@@ -27,7 +27,6 @@ C:\Users\rafae\source\repos\ProjetoControleVendas\bin\Debug\System.Numerics.Vect
 C:\Users\rafae\source\repos\ProjetoControleVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\rafae\source\repos\ProjetoControleVendas\obj\Debug\ProjetoControleVendas.csproj.AssemblyReference.cache
 C:\Users\rafae\source\repos\ProjetoControleVendas\obj\Debug\ProjetoControleVendas.br.com.projeto.view.Frmclientes.resources
-C:\Users\rafae\source\repos\ProjetoControleVendas\obj\Debug\ProjetoControleVendas.Form1.resources
 C:\Users\rafae\source\repos\ProjetoControleVendas\obj\Debug\ProjetoControleVendas.Properties.Resources.resources
 C:\Users\rafae\source\repos\ProjetoControleVendas\obj\Debug\ProjetoControleVendas.csproj.GenerateResource.cache
 C:\Users\rafae\source\repos\ProjetoControleVendas\obj\Debug\ProjetoControleVendas.csproj.CoreCompileInputs.cache
